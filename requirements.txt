@@ -1,0 +1,6 @@
+celery
+redis
+sqlalchemy
+feedparser
+requests
+spacy
