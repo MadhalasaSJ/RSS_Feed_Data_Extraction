@@ -61,7 +61,6 @@ This application fetches articles from various RSS feeds, classifies the content
   
 - **Implementation**:
   - **SQL Dump**: Created using SQLite commands to capture the schema and data of the articles table.
-  - **CSV**: Exported using SQLite commands to retrieve all articles and format them as CSV.
   - **JSON**: A separate Python script fetches articles from the database and converts them to JSON format for easy consumption.
 
 ## Design Choices
